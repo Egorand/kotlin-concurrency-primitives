@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-concurrency-primitives.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-concurrency-primitives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-concurrency-primitives_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-concurrency-primitives_main.iml" group="kotlin-concurrency-primitives" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-concurrency-primitives_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-concurrency-primitives_test.iml" group="kotlin-concurrency-primitives" />
+    </modules>
+  </component>
+</project>
